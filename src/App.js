@@ -37,13 +37,13 @@ function App() {
       </div>
 
       <div style={styles.columnContainer}>
-        <Card header="About me" flex={1}>
+        <Card header="Project 1 " flex={1}>
           <p>hello everbody!!!</p>
         </Card>
-        <Card header="About me" flex={2}>
+        <Card header="Project 2" flex={2}>
           <p>hello everbody!!!</p>
         </Card>
-        <Card header="About me" flex={1}>
+        <Card header="Project 3" flex={1}>
           <p>hello everbody!!!</p>
         </Card>
       </div>
